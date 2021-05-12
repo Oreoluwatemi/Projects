@@ -1,0 +1,78 @@
+#mainPage {
+    padding: 10px 0px;
+}
+
+body {
+    background-color: black;
+}
+
+#exit {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+.btn-container {
+    padding: 5px 0px 10px 0px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 6px;
+}
+
+#myImg {
+    height: 500px;
+    width: 500px;
+    border-radius: 6px;
+}
+
+.btn {
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btn-success {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    width: 100px;
+    height: 30px;
+}
+
+.btn-success:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.btn-primary {
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+    width: 100px;
+    height: 30px;
+}
+
+.btn-primary:hover {
+    background-color: #008CBA;
+    color: white;
+}
